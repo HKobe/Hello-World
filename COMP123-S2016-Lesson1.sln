@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123-S2016-Lesson1", "COMP123-S2016-Lesson1\COMP123-S2016-Lesson1.csproj", "{FC066F1C-91AF-451F-947C-B59CDCB4C088}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldTestProject", "HelloWorldTestProject\HelloWorldTestProject.csproj", "{8AC129D2-D9A0-4E54-9C11-FA1064A7224D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FC066F1C-91AF-451F-947C-B59CDCB4C088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC066F1C-91AF-451F-947C-B59CDCB4C088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC066F1C-91AF-451F-947C-B59CDCB4C088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC129D2-D9A0-4E54-9C11-FA1064A7224D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC129D2-D9A0-4E54-9C11-FA1064A7224D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC129D2-D9A0-4E54-9C11-FA1064A7224D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC129D2-D9A0-4E54-9C11-FA1064A7224D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
